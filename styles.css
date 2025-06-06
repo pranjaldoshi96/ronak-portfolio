@@ -203,6 +203,15 @@ body {
     font-size: 1.1rem;
 }
 
+.credential-link {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+}
+
 /* Section Styles */
 .section-title {
     text-align: center;
